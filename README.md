@@ -1,5 +1,6 @@
 # analog-project
 
+
 This project was generated with [Analog](https://analogjs.org), the fullstack meta-framework for Angular.
 
 ## Setup
